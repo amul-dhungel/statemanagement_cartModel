@@ -1,6 +1,11 @@
 # addToCart
 
-A new Flutter project.
+A new Flutter project where statemanagement cart mode is creted with provider package.
+
+<img src="Screenshots/1.JPG">
+
+<img src="Screenshots/2.JPG">
+
 
 ## Getting Started
 
